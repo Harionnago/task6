@@ -64,12 +64,13 @@ div {
 }
 .footer-container {
     background-color: rgba(83, 83, 83, 0.33);
-    width: 100%;
+    width:1400px;
     height: 450px;
     display: flex;
 }
 .image-item {
     border: 1px solid rgba(234, 236, 240, 1);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
 }
 .text-container span {
     margin-left: -2px;
