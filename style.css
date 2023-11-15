@@ -2,14 +2,6 @@
     font-family: inter;
     src: url(Inter-VariableFont_slnt\,wght.ttf);
 }
-.container {
-    max-width: 1440px;
-    height:1,721px;
-    margin-left: 0px;
-    padding: 80px, 52px, 80px, 52px;
-    gap: 48px;
-    color: rgba(30, 30, 30, 1);
-}
 div {
     font-family: "inter";
 }
@@ -64,8 +56,8 @@ div {
 }
 .footer-container {
     background-color: rgba(83, 83, 83, 0.33);
-    width:1400px;
-    height: 450px;
+    width:100%;
+    height: 400px;
     display: flex;
 }
 .image-item {
